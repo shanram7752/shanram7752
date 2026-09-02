@@ -12,9 +12,9 @@
 
 ## 👋 I'M SHAN!
 
-**Geospatial Data Analyst | Geographer | Data & BI Support**
+**Geospatial Data Analyst | Geographer | Data Execution and Operations | Logistics | Communication
 
-I'm an early-career professional based in Kolkata, India, with an academic foundation in Geography, GIS, and Remote Sensing, and a practical, hands-on grounding in data analytics — Python, machine learning, GIS/WebGIS, and Power BI. I currently work as a Data Analyst Intern, where I split my time between geospatial/data analysis and the kind of reporting, documentation, and coordination work that keeps a small business running. I'm comfortable moving between a Jupyter notebook, a GIS map, and a boardroom-ready dashboard — and I'm looking for roles that let me keep doing all three.
+I'm an ambitious and growth-oriented professional eager to apply knowledge, develop expertise, and contribute to organizational success. Known for a strong work ethic, adaptability, and the ability to learn quickly in fast-paced environments.
 
 <br>
 
@@ -134,9 +134,7 @@ Binary classification on the Kaggle Titanic dataset comparing Logistic Regressio
 
 ## 🎯 CAREER FOCUS
 
-I'm building at the intersection of **geospatial science and data analytics** — with a growing pull toward how that data work turns into **business intelligence, reporting, and decision support**. My MSc is in Remote Sensing & GIS, and my applied work spans Python/ML data science projects, WebGIS tools, and — through my internship — dashboard/reporting support, documentation, and design/communication deliverables for a small business.
-
-I'm exploring roles as a **Geospatial Data Analyst**, **GIS Analyst**, **Data Analyst**, or in **Business Intelligence / MIS & Reporting** — and I'm equally open to **business and administrative support** positions where data, documentation, and coordination intersect. I like environments where I can move between a notebook, a map, and a dashboard in the same afternoon.
+Transforming geospatial and data-driven insights into practical business solutions. Interested in GIS, data analysis, visualization, operations, logistics, and business processes, with a strong focus on problem-solving, communication, coordination, and continuous learning.
 
 <br>
 

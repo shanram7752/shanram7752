@@ -30,6 +30,12 @@ I'm an ambitious and growth-oriented professional eager to apply knowledge, deve
 | 💼 **Business & Administrative Support** | Sales reporting, documentation, presentations, and design work from my internship |
 | 🤝 **Professional Communication** | Coordinating across a small team; client- and stakeholder-facing reporting |
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <br>
 
 ## 🧰 PROFESSIONAL SKILLS

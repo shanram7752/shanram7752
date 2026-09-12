@@ -31,7 +31,12 @@ I'm an ambitious and growth-oriented professional eager to apply knowledge, deve
 | 🤝 **Professional Communication** | Coordinating across a small team; client- and stakeholder-facing reporting |
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanram7752)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=9333EA)](https://www.instagram.com/_.its_about_shan)
+[![Threads](https://img.shields.io/badge/Threads-0D1117?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@_.its_about_shan)
+[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=2563EB)](https://www.facebook.com/share/1DELMDoEa5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8B949E)](#)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B949E)](#)
 
 <!-- Snake Game Repo View -->
 

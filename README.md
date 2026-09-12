@@ -13,6 +13,11 @@
 ## 👋 I'M SHAN!
 
 **Geospatial Data Analyst | Geographer | Data Execution and Operations | Logistics | Communication
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Shan Ram 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+  
+Email Me 👉 ✉️ **shanram7752@gmail.com** For Freelancing/Project or Anything Else. 😊😊
 
 I'm an ambitious and growth-oriented professional eager to apply knowledge, develop expertise, and contribute to organizational success. Known for a strong work ethic, adaptability, and the ability to learn quickly in fast-paced environments.
 

@@ -181,7 +181,6 @@ Transforming geospatial and data-driven insights into practical business solutio
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8B949E)](#)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B949E)](#)
 
-*(Portfolio and Email buttons are placeholders — add your links and I'll wire them in. See the missing-URLs list in the brand kit.)*
 
 </div>
 
@@ -197,7 +196,7 @@ Transforming geospatial and data-driven insights into practical business solutio
 
 <div align="center">
 
-### Thanks for stopping by — always happy to talk geospatial data, GIS, or dashboards. 🗺️📊
+### Thanks for stopping by — always happy to talk about geospatial data, GIS, dashboards , Operatins and Logistics through execution and communication. 🗺️📊
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6C2BD9,100:0D1117&height=120&section=footer" width="100%"/>
 
